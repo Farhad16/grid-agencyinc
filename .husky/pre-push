@@ -1,1 +1,1 @@
-pnpm format && pnpm test
+npm format && npm test
